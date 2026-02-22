@@ -425,7 +425,7 @@ IP Address: 103.125.42.130/30
   - Assigned to:
     * Device: R-DN-MIR-CORE-01
     * Interface: sfp-sfpplus1
-  - DNS Name: r-mir-uplink.Nirvor.bd
+  - DNS Name: r-mir-uplink.nirvor.bd
   - Description: BTCL uplink connection
 ```
 
@@ -536,7 +536,7 @@ Termination A (Provider Side):
   - Upstream Speed: 5000 Mbps
   - Cross Connect ID: BTCL-XC-MIR-12345
 
-Termination Z (Nirvor Side):
+Termination Z (Nirvor Communication Side):
   - Side: Z
   - Location: Mirpur POP
   - Device: R-DN-MIR-CORE-01
