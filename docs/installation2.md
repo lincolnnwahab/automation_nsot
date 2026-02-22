@@ -227,7 +227,7 @@ NAUTOBOT_CACHES_LOCATION=redis://:your_redis_password@redis:6379/1
 # Superuser
 NAUTOBOT_CREATE_SUPERUSER=true
 NAUTOBOT_SUPERUSER_NAME=admin
-NAUTOBOT_SUPERUSER_EMAIL=admin@Nirvor.bd
+NAUTOBOT_SUPERUSER_EMAIL=admin@nirvor.bd
 ```
 
 > ⚠️ **সতর্কতা:** Redis password-এ `@` চিহ্ন থাকলে connection URL-এ `%40` দিয়ে replace করতে হবে। যেমন `nirvorn@Redis2025$` হবে `nirvor%40Redis2025$`। নাহলে Celery connect করতে পারবে না।
