@@ -787,18 +787,18 @@ Cable: DIST-TO-ACC-01
 10.10.1.1/32
   - Assigned to: R-DN-MIR-CORE-01 → lo0
   - Role: Loopback
-  - DNS: r-mir-core-01.Nirvor.bd
+  - DNS: r-mir-core-01.nirvor.bd
 
 103.125.42.130/30
   - Assigned to: R-DN-MIR-CORE-01 → sfp-sfpplus1
   - Role: Network
-  - DNS: r-mir-uplink.Nirvor.bd
+  - DNS: r-mir-uplink.nirvor.bd
   - Description: BTCL uplink
 
 10.10.10.11/24
   - Assigned to: SW-DN-MIR-DIST-01 → vlan10
   - VLAN: MGMT_MIRPUR
-  - DNS: sw-mir-dist-01.Nirvor.bd
+  - DNS: sw-mir-dist-01.nirvor.bd
 ```
 
 **5. VLANs:**
