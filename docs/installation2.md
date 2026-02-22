@@ -115,7 +115,7 @@ cat /opt/nautobot/CREDENTIALS.txt
 SSH করে সার্ভারে লগইন করুন:
 
 ```bash
-ssh admin@nautobot.nirvorcommunication.bd
+ssh admin@nautobot.nirvor.bd
 ```
 
 সিস্টেম আপডেট করুন:
