@@ -410,7 +410,7 @@ IP Address: 10.10.1.1/32
   - Assigned to:
     * Device: R-DN-MIR-CORE-01
     * Interface: lo0
-  - DNS Name: r-mir-core-01.Nirvor.bd
+  - DNS Name: r-mir-core-01.nirvor.bd
   - Description: Management loopback
 ```
 
@@ -481,7 +481,7 @@ Provider: BTCL
   - Comments: Primary upstream provider
 ```
 
-Nirvor এর একটা secondary provider ও আছে:
+Nirvor Communication এর একটা secondary provider ও আছে:
 
 ```
 Provider: Summit Communications
@@ -624,7 +624,7 @@ Status: Under Maintenance
 
 Tags দিয়ে যেকোনো object categorize করা যায়।
 
-Nirvor এর কিছু tags:
+Nirvor Communication এর কিছু tags:
 
 ```
 Tag: production
